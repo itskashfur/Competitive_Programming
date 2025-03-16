@@ -1,4 +1,4 @@
-# Competitive Programming Resources (2025 Updated)**
+# Competitive Programming Resources (2025 Updated)
 
 ## **1. General CP Guides & Roadmaps**
 - **[Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)** – Must-read book for CP  
